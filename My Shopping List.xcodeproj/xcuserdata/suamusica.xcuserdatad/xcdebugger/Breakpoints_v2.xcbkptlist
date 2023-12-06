@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6AF5A67A-D25C-4F02-99D9-9327B7CD916C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "795096D5-E5C1-4C2C-A0F0-FD9BAFDBC55D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "My Shopping List/Lists.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "795096D5-E5C1-4C2C-A0F0-FD9BAFDBC55D - d2f28e9e8afb7c02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "My_Shopping_List.Lists.viewDidLoad() -&gt; ()"
+                  moduleName = "My Shopping List"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suamusica/projects/meus/My%20Shopping%20List/My%20Shopping%20List/Lists.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "520">
+               </Location>
+               <Location
+                  uuid = "795096D5-E5C1-4C2C-A0F0-FD9BAFDBC55D - d2f28e9e8afb7c21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "My_Shopping_List.Lists.viewDidLoad() -&gt; ()"
+                  moduleName = "My Shopping List"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suamusica/projects/meus/My%20Shopping%20List/My%20Shopping%20List/Lists.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "388">
+               </Location>
+               <Location
+                  uuid = "795096D5-E5C1-4C2C-A0F0-FD9BAFDBC55D - d2f28e9e8afb7c21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "My_Shopping_List.Lists.viewDidLoad() -&gt; ()"
+                  moduleName = "My Shopping List"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suamusica/projects/meus/My%20Shopping%20List/My%20Shopping%20List/Lists.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "380">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8E91F02-92D9-4137-BCE8-3BAFF121C8E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "My Shopping List/Lists.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A28D0A9-DA17-40AF-BEEE-C296A4BFF330"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "My Shopping List/Lists.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
