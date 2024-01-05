@@ -104,5 +104,31 @@ class Lists:UIViewController {
         print(dic1)
         print(dic1["name"])
         print(nameVar)
+        
+        ///
+        ///
+        ///
+        
+        var dictionary = NSMutableDictionary()
+        dictionary = [
+            "name": "felipe",
+            "age": 20,
+            "sizes": [
+                "height": 1.85,
+                "weight": 78,
+            ],
+        ]
+        
+        let dName = dictionary["name"] as? String ?? "default value"
+        let dNameError = dictionary["name"] as? Int ?? 7
+        
+        print(dictionary)
+        print(dName)
+        print(dNameError)
+        
+        let sizes = dictionary["sizes"] as? NSDictionary;
+        let height = sizes?["height"] as? Float ?? 0
+        print(sizes)
+        print(height)
     }
 }
