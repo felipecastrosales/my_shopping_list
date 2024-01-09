@@ -8,7 +8,32 @@
 import Foundation
 import UIKit
 
-class Lists:UIViewController {
+class Lists:UIViewController, UITextFieldDelegate {
+    @IBOutlet weak var labelHeight: UILabel!
+    
+    @IBOutlet weak var buttonSend: UIButton!
+    //    @IBOutlet weak var ButtonSend: UIButton!
+    @IBAction func buttonSend(_ sender: Any) {
+    }
+    
+    override func viewWillAppear(_ animated: Bool) {
+        labelHeight.textColor = UIColor.red
+        labelHeight.text = "Height (cm) is:"
+    }
+    
+    override func viewDidAppear(_ animated: Bool) {
+    }
+    
+    override func viewWillDisappear(_ animated: Bool) {
+    }
+    
+    override func viewDidDisappear(_ animated: Bool) {
+    }
+    
+    func textFieldShouldReturn(_ textField: UITextField) -> Bool {
+        <#code#>
+    }
+    
     var v1 = 3;
     var v2 = 5;
     var v3 = 9;
