@@ -243,5 +243,132 @@
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5BADD15-5D52-4068-A9F9-4F56AE86065C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "My Shopping List/Lists.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D31D0377-13AA-4D29-98D9-561F9C6D52EE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "My Shopping List/Lists.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "176"
+            endingLineNumber = "176"
+            landmarkName = "loadDictionary(medida:withName:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D31D0377-13AA-4D29-98D9-561F9C6D52EE - 3037b004810e473e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "My_Shopping_List.Lists.loadDictionary2(medida: Swift.String, withName: Swift.String) -&gt; Swift.Float"
+                  moduleName = "My Shopping List"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suamusica/projects/meus/My%20Shopping%20List/My%20Shopping%20List/Lists.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "D31D0377-13AA-4D29-98D9-561F9C6D52EE - 2296858deeb6b20a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "My_Shopping_List.Lists.loadDictionary(medida: Swift.String, withName: Swift.String) -&gt; ()"
+                  moduleName = "My Shopping List"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suamusica/projects/meus/My%20Shopping%20List/My%20Shopping%20List/Lists.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "2632">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB4E2D73-B3EC-46A4-BB35-EFBB683F9CCD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "My Shopping List/Lists.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BB4E2D73-B3EC-46A4-BB35-EFBB683F9CCD - d2f28e9e8afb6c25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "My_Shopping_List.Lists.viewDidLoad() -&gt; ()"
+                  moduleName = "My Shopping List"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suamusica/projects/meus/My%20Shopping%20List/My%20Shopping%20List/Lists.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "12236">
+               </Location>
+               <Location
+                  uuid = "BB4E2D73-B3EC-46A4-BB35-EFBB683F9CCD - d2f28e9e8afb6c25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "My_Shopping_List.Lists.viewDidLoad() -&gt; ()"
+                  moduleName = "My Shopping List"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suamusica/projects/meus/My%20Shopping%20List/My%20Shopping%20List/Lists.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "12244">
+               </Location>
+               <Location
+                  uuid = "BB4E2D73-B3EC-46A4-BB35-EFBB683F9CCD - d2f28e9e8afb6c25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "My_Shopping_List.Lists.viewDidLoad() -&gt; ()"
+                  moduleName = "My Shopping List"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suamusica/projects/meus/My%20Shopping%20List/My%20Shopping%20List/Lists.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "12272">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>

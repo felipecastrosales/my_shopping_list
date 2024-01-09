@@ -145,5 +145,57 @@ class Lists:UIViewController {
         
         let redColor = UIColor.red
         
+        ///
+//        loadDictionary(medida: "height", withName: "name")
+//        let heightFromReturn = loadDictionary2(medida: "height", withName: "name")
+//        print(heightFromReturn)
+        
+        print("------------")
+        
+//        let heightFromGlobal = Global().loadDictionary(medida: "height", withName: "name")
+        let heightFromGlobal = Global().loadDictionary(medida: "height", withName: "name")
+        print(heightFromGlobal)
+    }
+    
+    public func loadDictionary(medida chave:String, withName name:String) {
+        var internalDic = NSMutableDictionary()
+        internalDic = [
+            "name": "felipe",
+            "age": 20,
+            "sizes": [
+                "height": 1.85,
+                "weight": 78,
+            ],
+        ];
+        
+        let name = internalDic[name] as? String
+        let sizes = internalDic["sizes"] as? NSDictionary
+        let height = sizes?[chave] as? Float ?? 0
+        print(height)
+        print(name)
+        print(internalDic)
+     
+    }
+    
+    func loadDictionary2(medida chave:String, withName name:String) -> Float {
+        var internalDic = NSMutableDictionary()
+        internalDic = [
+            "name": "felipe",
+            "age": 20,
+            "sizes": [
+                "height": 1.85,
+                "weight": 78,
+            ],
+        ];
+        
+        let name = internalDic[name] as? String
+        let sizes = internalDic["sizes"] as? NSDictionary
+        let height = sizes?[chave] as? Float ?? 0
+        print(height)
+        print(name)
+        print(internalDic)
+        
+        return height
+        
     }
 }
