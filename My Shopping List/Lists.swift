@@ -130,5 +130,20 @@ class Lists:UIViewController {
         let height = sizes?["height"] as? Float ?? 0
         print(sizes)
         print(height)
+        
+        /// property
+        
+        var dictionaryForProperty = NSMutableDictionary()
+        dictionaryForProperty = [
+            "name": "felipe",
+            "age": 20,
+            "sizes": [
+                "height": 1.85,
+                "weight": 78,
+            ],
+        ];
+        
+        let redColor = UIColor.red
+        
     }
 }
